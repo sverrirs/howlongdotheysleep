@@ -1,0 +1,64 @@
+html, body {
+  font-family: 'Roboto', sans-serif;
+}
+
+#drawing-container {
+  height: 100vh;
+  width: 100vh;
+}
+
+.svg-text {
+  opacity: 1;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.arc {
+  fill: none;
+  opacity: 0.4;
+  stroke: #9b9b00;
+  stroke-width: 15;
+}
+
+.ray {
+  fill: none;
+  stroke: rgba(0, 0, 0, 0.2);
+  stroke-width: 1;
+  stroke-dasharray: 3;
+}
+
+text.hover {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+path.hover {
+  opacity: 0.8;
+  stroke: #c80000;
+}
+
+.day-arc {
+  fill: goldenrod;
+  stroke: none;
+  opacity: 0.1;
+}
+
+.night-arc {
+  fill: teal;
+  stroke: none;
+  opacity: 0.2;
+}
+
+.sun-arc {
+  fill: yellow;
+  stroke: none;
+  opacity: 1;
+}
+
+.moon-arc {
+  fill: silver;
+  stroke: none;
+  opacity: 1;
+}
