@@ -6,6 +6,9 @@ I though it would be interesting to create an interactive and dynamic version of
 See the interactive version at: 
 http://labs.sverrirs.com/sleep
 
+For editing purposes I have set up a Codepen version at
+http://codepen.io/sverrirs/pen/bwJBEL
+
 
 # Original Source
 Original idea came from the infographic below
